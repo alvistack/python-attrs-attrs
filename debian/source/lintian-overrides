@@ -1,0 +1,5 @@
+python-attrs source: file-without-copyright-information
+python-attrs source: no-debian-changes
+python-attrs source: source-contains-prebuilt-windows-binary
+python-attrs source: source-is-missing
+python-attrs source: source-package-encodes-python-version
