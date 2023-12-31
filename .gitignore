@@ -20,3 +20,5 @@ attrs.docset
 attrs.tgz
 Justfile
 t.py
+pip-wheel-metadata
+.pybuild
