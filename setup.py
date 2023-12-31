@@ -144,7 +144,7 @@ if __name__ == "__main__":
         license=find_meta("license"),
         url=URL,
         project_urls=PROJECT_URLS,
-        version=VERSION,
+        version="22.2.0",
         author=find_meta("author"),
         author_email=find_meta("email"),
         maintainer=find_meta("author"),
